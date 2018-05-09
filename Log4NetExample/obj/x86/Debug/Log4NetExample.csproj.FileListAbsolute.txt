@@ -1,0 +1,9 @@
+/home/ndipiazza/Projects/Log4NetExample/Log4NetExample/bin/Debug/log4net.config
+/home/ndipiazza/Projects/Log4NetExample/Log4NetExample/bin/Debug/Log4NetExample.exe
+/home/ndipiazza/Projects/Log4NetExample/Log4NetExample/bin/Debug/Log4NetExample.pdb
+/home/ndipiazza/Projects/Log4NetExample/Log4NetExample/bin/Debug/log4net.dll
+/home/ndipiazza/Projects/Log4NetExample/Log4NetExample/bin/Debug/log4net.xml
+/home/ndipiazza/Projects/Log4NetExample/Log4NetExample/obj/x86/Debug/Log4NetExample.csprojResolveAssemblyReference.cache
+/home/ndipiazza/Projects/Log4NetExample/Log4NetExample/obj/x86/Debug/Log4NetExample.csproj.CoreCompileInputs.cache
+/home/ndipiazza/Projects/Log4NetExample/Log4NetExample/obj/x86/Debug/Log4NetExample.exe
+/home/ndipiazza/Projects/Log4NetExample/Log4NetExample/obj/x86/Debug/Log4NetExample.pdb
